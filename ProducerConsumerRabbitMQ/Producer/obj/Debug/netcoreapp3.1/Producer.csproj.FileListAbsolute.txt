@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.exe
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.dll
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.deps.json
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.json
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.dev.json
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfo.cs
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.csproj.CopyComplete
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.dll
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.pdb
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.genruntimeconfig.cache
+\\Mac\Home\Desktop\MicroservicesNetCore\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.pdb
